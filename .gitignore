@@ -58,3 +58,10 @@ master.srt
 takes_packed.md
 edl.json
 project.md
+
+# CLOUD VIDEO (studio/) — runtime data and build output
+/workspace/
+studio/.env
+studio/.venv/
+studio/web/out/
+studio/web/.next/

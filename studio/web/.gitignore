@@ -1,0 +1,7 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+# Commit the lockfile for reproducible builds (the repo root ignores lockfiles).
+!package-lock.json

@@ -1,0 +1,8 @@
+**/node_modules
+**/.venv
+**/.next
+studio/web/out
+workspace
+.git
+**/.env
+**/__pycache__
